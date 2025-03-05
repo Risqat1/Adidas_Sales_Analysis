@@ -69,7 +69,7 @@ This explains each columns in the dataset as follows:
   - walmart ($75m) and Amazon ($78m) were the lowest revenue generating retailers.
 
 ### DASHBOARD
-[Adiddas data]("https://github.com/user-attachments/assets/6c0d6650-ea26-4dd3-b925-4b523bb4566e" />)
+![Adidas data](https://github.com/user-attachments/assets/2782b644-5c56-41ff-9e5e-857f4e8f300d)
 
 
 
